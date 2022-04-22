@@ -22,3 +22,4 @@ var num1=parseInt(prompt("Ingrese un número"));
 var num2=parseInt(prompt("Ingrese otro número"));
 document.write(num1 + num2);
 
+document.write("Chau")
